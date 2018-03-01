@@ -20,7 +20,7 @@
 
 .NOTES
   Versão:           1.0
-  Autor:            Altimar (altimar@deploymentninjas.com)
+  Autor:            Altimar de Souza Junior (altimar@deploymentninjas.com)
   Creation Date:    01/03/2018
   
 .EXAMPLE
