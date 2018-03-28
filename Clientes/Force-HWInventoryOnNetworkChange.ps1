@@ -8,7 +8,7 @@
   
 .DESCRIPTION
   Ao detectar que o computador está em uma nova rede, força um "full hardware inventory".
-  Útil para funcionamento do Windows PE PeerCache, conforme https://deploymentninjas.com/TÍTULO
+  Útil para funcionamento do Windows PE PeerCache, conforme https://www.deploymentninjas.com/2018/03/28/windows-pe-peercache-e/
 
 .NOTES
   Versão:           1.0
