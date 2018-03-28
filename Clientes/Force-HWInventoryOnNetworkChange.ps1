@@ -20,7 +20,7 @@
 #>
 
 #---------------------------------Inicialização--------------------------------
-$RegistryKeyPath = "HKLM:\Software\DTIC\SCCM" # Caminho da chave de registro para armazenar informações. Ex: "HKLM:\Software\SCCMInfo"
+$RegistryKeyPath = "" # Caminho da chave de registro para armazenar informações. Ex: "HKLM:\Software\SCCMInfo"
 
 
 #------------------------------------Funções-----------------------------------
